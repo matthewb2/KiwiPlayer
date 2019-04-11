@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\bin\Debug\App.xaml.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\Window1.baml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiWiPlayer.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiWiPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\bin\Debug\KiwiPlayer.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\bin\Debug\KiwiPlayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiWiPlayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiwiPlayer_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiwiPlayer.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiwiPlayer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiwiPlayer.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KiwiPlayer\WpfApplication4\obj\Debug\KiwiPlayer.pdb

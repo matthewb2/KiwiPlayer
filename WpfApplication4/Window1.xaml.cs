@@ -154,6 +154,16 @@ namespace WpfApplication4
         {
 
             InitializeComponent();
+
+            //check update
+
+
+
+
+
+
+
+
             MyWindowHeight = 500;
             this.DataContext = this;
 
@@ -431,7 +441,7 @@ namespace WpfApplication4
         {
             Microsoft.Win32.OpenFileDialog ofd = new Microsoft.Win32.OpenFileDialog();
 
-            ofd.Filter = "video files (*.mp4;*.avi)|*.mp4;*.avi";
+            ofd.Filter = "video files (*.mp4;*.avi;*.mkv)|*.mp4;*.avi;*.mkv";
             
             if (ofd.ShowDialog().Value)
             {
@@ -440,7 +450,7 @@ namespace WpfApplication4
                 string fullPath = ofd.FileName;
                 string fileName2 = ofd.SafeFileName;
                 string path = fullPath.Replace(fileName2, "");
-                string[] extensions = { ".mp4", ".avi", ".asp", "wmv" };
+                string[] extensions = { ".mp4", ".avi", ".asp", "wmv", "mkv" };
 
                 filePaths = Directory.GetFiles(path, "*.*").Where(f => extensions.Contains(new FileInfo(f).Extension.ToLower())).ToArray();
 
